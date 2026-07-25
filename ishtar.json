@@ -7,7 +7,7 @@
         "sha256": "24fd51d70f31a4edfb2994580774a12e2364e3e9036b677fdac4b1cad2141a1b",
         "size": 2702224741,
         "url": "https://sourceforge.net/projects/yuis-release/files/LineageOS/ishtar/20260724/LineageOS-Xiaomi_13_Ultra-20260724-weekly-signed.zip/download",
-        "ota_property_files": "payload_metadata.bin:4751:202641,payload.bin:4751:2702216618,payload_properties.txt:2702221427:156,apex_info.pb:2199:1279,care_map.pb:3525:1179,metadata:69:680,metadata.pb:817:1334                        ",
+        "ota_property_files": "payload_metadata.bin:4751:202641,payload.bin:4751:2702216618,payload_properties.txt:2702221427:156,apex_info.pb:2199:1279,care_map.pb:3525:1179,metadata:69:680,metadata.pb:817:1334",
         "os_patch_level": "2026-07-01",
         "os_sdk_level": 36
       }
