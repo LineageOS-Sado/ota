@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1785038400,
+    "files": [
+      {
+        "filename": "lineage-23.2-20260726-UNOFFICIAL-fuxi.zip",
+        "os_patch_level": "2026-07-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "payload_metadata.bin:4662:187245,payload.bin:191907:1926086946,payload_properties.txt:1926278853:156,apex_info.pb:2220:1279,care_map.pb:3546:1069,metadata:69:683,metadata.pb:820:1352",
+        "sha256": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+        "size": 1926282058,
+        "url": "https://github.com/LineageOS-Sado/ota/releases/download/fuxi-20260726/lineage-23.2-20260726-UNOFFICIAL-fuxi.zip"
+      }
+    ],
+    "type": "unofficial",
+    "version": "23.2"
+  }
+]
