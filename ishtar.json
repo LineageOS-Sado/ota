@@ -1,18 +1,19 @@
 [
   {
-    "datetime": 1784928104,
+    "datetime": 1785183216,
     "files": [
       {
-        "filename": "LineageOS-Xiaomi_13_Ultra-20260724-weekly-signed.zip",
-        "sha256": "24fd51d70f31a4edfb2994580774a12e2364e3e9036b677fdac4b1cad2141a1b",
-        "size": 2702224741,
-        "url": "https://sourceforge.net/projects/yuis-release/files/LineageOS/ishtar/20260724/LineageOS-Xiaomi_13_Ultra-20260724-weekly-signed.zip/download",
-        "ota_property_files": "payload_metadata.bin:4751:202641,payload.bin:4751:2702216618,payload_properties.txt:2702221427:156,apex_info.pb:2199:1279,care_map.pb:3525:1179,metadata:69:680,metadata.pb:817:1334",
+        "filename": "LineageOS-Xiaomi_13_Ultra-GMS-20260727-weekly-signed.zip",
+        "sha256": "2b9ee11c75272703b4b46335cd6c69fb34fbc4b9b308866a052c23b260887cd7",
+        "size": 3525284609,
+        "url": "https://sourceforge.net/projects/yuis-release/files/LineageOS/ishtar/20260727/LineageOS-Xiaomi_13_Ultra-GMS-20260727-weekly-signed.zip/download",
+        "ota_property_files": "payload_metadata.bin:4486:198905,payload.bin:4486:3525276751,payload_properties.txt:3525281295:156,apex_info.pb:2195:1279,care_map.pb:3521:918,metadata:69:678,metadata.pb:815:1332",
         "os_patch_level": "2026-07-01",
         "os_sdk_level": 36
       }
     ],
     "type": "unofficial",
-    "version": "23.2"
+    "version": "23.2",
+    "variant": "gms"
   }
 ]
