@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "datetime": 1785348594,
+    "files": [
+      {
+        "filename": "LineageOS-Xiaomi_13-GMS-20260729-weekly-signed.zip",
+        "sha256": "90c7a235834c3bf1d5e39a6216954080a22e37d020d4bbe5d424944a2e2b1491",
+        "size": 3097969012,
+        "url": "https://sourceforge.net/projects/yuis-release/files/LineageOS/fuxi/20260729/LineageOS-Xiaomi_13-GMS-20260729-weekly-signed.zip/download",
+        "ota_property_files": "payload_metadata.bin:4482:185354,payload.bin:4482:3097961158,payload_properties.txt:3097965698:156,apex_info.pb:2184:1279,care_map.pb:3510:925,metadata:69:677,metadata.pb:814:1322",
+        "os_patch_level": "2026-07-01",
+        "os_sdk_level": 36
+      }
+    ],
+    "type": "unofficial",
+    "version": "23.2",
+    "variant": "gms"
+  }
+]
