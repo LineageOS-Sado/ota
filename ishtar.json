@@ -1,5 +1,22 @@
 [
   {
+    "datetime": 1785358020,
+    "files": [
+      {
+        "filename": "LineageOS-Xiaomi_13_Ultra-VANILLA-20260729-weekly-signed.zip",
+        "sha256": "bb8ae68e8915ba8d391657591c36bae5739ee743a7b2af9953b9b7d58899d58c",
+        "size": 2712396576,
+        "url": "https://sourceforge.net/projects/yuis-release/files/LineageOS/ishtar/20260729/LineageOS-Xiaomi_13_Ultra-VANILLA-20260729-weekly-signed.zip/download",
+        "ota_property_files": "payload_metadata.bin:4751:203034,payload.bin:4751:2712388453,payload_properties.txt:2712393262:156,apex_info.pb:2199:1279,care_map.pb:3525:1179,metadata:69:680,metadata.pb:817:1334",
+        "os_patch_level": "2026-07-01",
+        "os_sdk_level": 36
+      }
+    ],
+    "type": "unofficial",
+    "version": "23.2",
+    "variant": "vanilla"
+  },
+  {
     "datetime": 1785183216,
     "files": [
       {
