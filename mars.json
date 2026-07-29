@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "datetime": 1785300272,
+    "files": [
+      {
+        "filename": "LineageOS-Xiaomi_11_Pro-GMS-20260729-weekly-signed.zip",
+        "sha256": "278ba3f5f768aaf6645d5d755e9027aafa8ab467f4580a356302cbaaa38f4e4f",
+        "size": 2554689314,
+        "url": "https://sourceforge.net/projects/yuis-release/files/LineageOS/mars/20260729/LineageOS-Xiaomi_11_Pro-GMS-20260729-weekly-signed.zip/download",
+        "ota_property_files": "payload_metadata.bin:4302:188717,payload.bin:4302:2554681640,payload_properties.txt:2554686000:156,apex_info.pb:2089:1279,care_map.pb:3415:840,metadata:69:679,metadata.pb:816:1225",
+        "os_patch_level": "2026-07-01",
+        "os_sdk_level": 36
+      }
+    ],
+    "type": "unofficial",
+    "version": "23.2",
+    "variant": "gms"
+  }
+]
