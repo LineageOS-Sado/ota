@@ -1,5 +1,22 @@
 [
   {
+    "datetime": 1785612188,
+    "files": [
+      {
+        "filename": "LineageOS-Xiaomi_11_Pro-VANILLA-20260802-weekly-signed.zip",
+        "sha256": "238c41353d91bf6d872ea6ffcefaa2ad15f1b51ed6e3ef907148181533f23254",
+        "size": 1734704519,
+        "url": "https://sourceforge.net/projects/yuis-release/files/LineageOS/mars/20260801/LineageOS-Xiaomi_11_Pro-VANILLA-20260802-weekly-signed.zip/download",
+        "ota_property_files": "payload_metadata.bin:4568:169604,payload.bin:4568:1734696579,payload_properties.txt:1734701205:156,apex_info.pb:2093:1279,care_map.pb:3419:1102,metadata:69:681,metadata.pb:818:1227",
+        "os_patch_level": "2026-07-01",
+        "os_sdk_level": 36
+      }
+    ],
+    "type": "unofficial",
+    "version": "23.2",
+    "variant": "vanilla"
+  },
+  {
     "datetime": 1785300272,
     "files": [
       {
